@@ -9,3 +9,9 @@ pypdf==4.3.1
 wikipedia
 langserve==0.2.2
 uvicorn
+chromadb
+llama-index==0.9.43
+google-cloud-aiplatform
+streamlit
+flask
+boto3
