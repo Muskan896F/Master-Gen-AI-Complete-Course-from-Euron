@@ -15,3 +15,10 @@ google-cloud-aiplatform
 streamlit
 flask
 boto3
+tiktoken
+aiofiles
+fastapi
+jinja2
+python-multipart
+PyPDF2
+faiss-cpu
